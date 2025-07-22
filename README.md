@@ -1,6 +1,6 @@
-### Repository containing quantum algorithm implementations
+# Repository containing quantum algorithm implementations
 
-#### E91
+# E91
 
 The E91 protocol, also known as the Ekert91 protocol, is a quantum key distribution (QKD) protocol proposed by Artur Ekert in 1991. Unlike the BB84 protocol, which depend on on the Heisenberg uncertainty principle, the security of the E91 protocol is fixed in the fundamental properties of quantum entanglement and the violation of Bell’s inequalities. This distinct approach provides a different perspective on achieving secure communication based on the completeness of quantum mechanics.
 
