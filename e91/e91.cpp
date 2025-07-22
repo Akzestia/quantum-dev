@@ -138,7 +138,6 @@ class E91Protocol {
         return S;
     }
 
-    // Calculate correlation E(a,b) = P(++)  + P(--) - P(+-) - P(-+)
     double calculate_correlation(idx alice_angle_idx, idx bob_angle_idx) {
         idx count_00 = 0, count_01 = 0, count_10 = 0, count_11 = 0;
         idx total = 0;
